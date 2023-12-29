@@ -1,0 +1,1 @@
+print('This file is to demostrate how tags works!')
